@@ -1,0 +1,17 @@
+{
+  "emergency_contact": {
+    "name": "lulul",
+    "phone": "ofsifhoaihs"
+  },
+  "medical_profile": {
+    "first_name": "",
+    "full_name": "",
+    "birth_date": "",
+    "primary_phone": "",
+    "diabetes_type": "Diabetes tipo 1",
+    "uses_insulin": true,
+    "allergies": "",
+    "notes": "",
+    "pin_hash": ""
+  }
+}
